@@ -5,11 +5,3 @@ title: Mukundrai Brothers
 
 # site short description
 description: Official homepage of Mukundrai Bros. application for Android and iOS
-
-navbar-links:
-  About Us: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
