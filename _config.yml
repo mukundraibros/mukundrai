@@ -22,6 +22,10 @@ credits: 'Credits: Mukundrai Bros. mobile app is a collective work of <a href="h
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-seo-tag
+
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
