@@ -30,7 +30,7 @@ plugins:
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title: android
     url: https://play.google.com/store?hl=en
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.apple.com/in/ios/app-store/
