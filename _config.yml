@@ -2,16 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mukundrai.com
+url: http://www.mukundrai.com
 title: Mukundrai Bros.
 email: vora.c@mukundrai.com
 author: Chirag Vora
-description: > # "description for site 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: Official homepage of Mukundrai Bros. application for Android and iOS
 copyright: 'Copyright &copy; 2018 Mukundrai Bros. All Rights Reserved.'
 credits: 'Credits: Mukundrai Bros. mobile app is a collective work of <a href="http://example.com/">Irshad Ahmed, Nikhil Sharma, Nitesh Kumar and Chirag Vora</a>.'
+
+
 
 
 # ----------------------- #
