@@ -30,7 +30,7 @@ plugins:
 # ----------------------- #
 
 social:
-  - title: android
+  - title: google-play
     url: https://play.google.com/store?hl=en
-  - title: github
+  - title: apple
     url: https://www.apple.com/in/ios/app-store/
