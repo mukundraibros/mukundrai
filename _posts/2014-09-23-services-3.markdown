@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Transforming pharma trade<br>Digitally
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+We encourage our customers to place orders though our cross-platform mobile app available on [Google Play](https://www.google.com/fonts) and [Apple Store](http://fontawesome.io).
