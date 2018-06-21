@@ -5,6 +5,6 @@ category: Services
 title: Committed to minimize dispensing errors<br>Using barcode
 description: |
 ---
-  We firmly believe that us of technology reduces human-errors and improves productivity
+  We firmly believe that use of technology reduces human-errors and improves productivity
   We apply barcode on every [product that we offer](https://www.mukundrai.com/product-list)!
   This enables us to focus on important issues like patient compliance.
