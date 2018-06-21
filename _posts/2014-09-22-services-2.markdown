@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Committed to minimize dispensing errors<br>Using barcode
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  We firmly believe that us of technology reduces human-errors and improves productivity
+  We apply barcode on every [product that we offer](https://www.mukundrai.com/product-list)!
+  This enables us to focus on important issues like patient compliance.
