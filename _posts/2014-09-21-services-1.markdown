@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Vidarba's oldest Medical Store:<br>Your partner in Medicare since 77 years (and counting)
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Established in 1940. We are probably the oldest pharmacy in Vidarbha region, [completed 77 succesful years](http://mukundrai.com/platinum-jubilee) in medicare. 
