@@ -5,4 +5,4 @@ category: Services
 title: Vidarbha's oldest Medical Store:<br>Your partner in Medicare since 77 years (and counting)
 description: |
 ---
-  Established in 1940. We are probably the oldest pharmacy in Vidarbha region, [completed 77 succesful years](http://mukundrai.com/platinum-jubilee) in medicare. 
+  Established in 1940. We are one of the oldest pharmacy in Vidarbha, [completed 77 succesful years](http://mukundrai.com/platinum-jubilee) in medicare. 
