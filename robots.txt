@@ -1,0 +1,5 @@
+#robots.txt for www.mukundrai.com
+
+User-Agent: *
+Disallow: 
+Allow: /
