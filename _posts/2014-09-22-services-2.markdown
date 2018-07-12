@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dog.png
-category: Services
+category: Store
 title: Committed to minimize dispensing errors<br>Using barcode
 description: |
 ---
