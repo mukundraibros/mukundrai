@@ -2,4 +2,4 @@
 title: Walk though of our mobile app<br>How to place orders?
 description: |
 ---
-<div style="text-align: center"><iframe width="560" height="315" src="//www.youtube.com/embed/krYUD6mJZbU" frameborder="0" allowfullscreen></iframe></div>
+<div style="text-align: center"><iframe width="720" height="1280" src="//www.youtube.com/embed/krYUD6mJZbU" frameborder="0" allowfullscreen></iframe></div>
