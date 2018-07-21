@@ -5,4 +5,4 @@ category: Store
 title: Committed to minimize dispensing errors<br>Using barcode
 description: |
 ---
-	{% include youtubePlayer.html id="krYUD6mJZbU" %}
+  We firmly believe that use of technology reduces human-errors and improves productivity We apply barcode on every product that we offer! This enables us to focus on important issues like patient compliance.

@@ -1,1 +1,1 @@
-{% include youtubePlayer.html id="krYUD6mJZbU" %}
+<div style="text-align: center"><iframe width="560" height="315" src="//www.youtube.com/embed/krYUD6mJZbU" frameborder="0" allowfullscreen></iframe></div>
