@@ -1,1 +1,7 @@
-<div style="text-align: center"><iframe width="560" height="315" src="//www.youtube.com/embed/krYUD6mJZbU" frameborder="0" allowfullscreen></iframe></div>
+---
+layout: default
+img: dog.png
+category: Store
+title: Walk though of our mobile app<br>How to place orders?
+description: |
+---<div style="text-align: center"><iframe width="560" height="315" src="//www.youtube.com/embed/krYUD6mJZbU" frameborder="0" allowfullscreen></iframe></div>
