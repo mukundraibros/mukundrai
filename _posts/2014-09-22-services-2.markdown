@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+{% include youtubePlayer.html id="krYUD6mJZbU" %}
 category: Store
 title: Committed to minimize dispensing errors<br>Using barcode
 description: |
