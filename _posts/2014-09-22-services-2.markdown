@@ -1,6 +1,5 @@
 ---
 layout: default
-img: dog.png
 category: Store
 title: Walk though of our mobile app<br>How to place orders?
 description: |
