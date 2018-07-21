@@ -1,4 +1,1 @@
----
-	{% include youtubePlayer.html id="krYUD6mJZbU" %}
----
-
+{% include youtubePlayer.html id="krYUD6mJZbU" %}
