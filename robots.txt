@@ -1,4 +1,4 @@
-#robots.txt for www.mukundrai.com
+#robots.txt for www.cvpharmacy.in
 
 User-Agent: *
 Disallow: 
