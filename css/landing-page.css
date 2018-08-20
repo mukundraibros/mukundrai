@@ -20,7 +20,8 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-.h2 {
+h2,
+h3 {
 		color: rgb(55, 144, 202);
 }
 
