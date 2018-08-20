@@ -20,6 +20,9 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+.h2 {
+		color: rgb(55, 144, 202);
+}
 
 .lead {
     font-size: 18px;
@@ -45,6 +48,7 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+	color: rgb(55, 144, 202);
 }
 
 .intro-divider {
