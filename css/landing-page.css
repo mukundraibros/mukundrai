@@ -51,6 +51,9 @@ h3 {
 	color: rgb(55, 144, 202);
 	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
+.intro-message > h3 {
+    color: rgb(118, 154, 39);
+}
 }
 
 .intro-divider {
