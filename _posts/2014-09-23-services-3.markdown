@@ -5,4 +5,4 @@ category: Store
 title: Transforming pharma trade<br>Digitally
 description: |
 ---
-We encourage our customers to place orders though our cross-platform mobile app available on [Google Play](https://play.google.com/store/apps/details?id=com.mukundrai.pharmacy) and [Apple Store](http://fontawesome.io).
+We encourage our customers to place orders though our cross-platform mobile app available on [Google Play](https://play.google.com/store/apps/details?id=com.mukundrai.pharmacy) and [Apple Store](https://itunes.apple.com/us/app/mukundrai-bros/id1401500003?mt=8).
